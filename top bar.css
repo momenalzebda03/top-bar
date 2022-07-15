@@ -1,0 +1,78 @@
+.body {
+    background-color: #888;
+}
+.divblak {
+    background-color: black;
+    width: 101.1%;
+    height: 70px;
+    margin-top: -1.5%;
+    margin-left: -0.6%;
+}
+span {
+    color: red;
+}
+.momen {
+    position: absolute;
+    top: -2%;
+    left: 8%;
+    color: white;
+}
+.div {
+    position: absolute;
+    left: 50%;
+    top: 0%;
+    color: white;
+    display: flex;
+}
+.p {
+    padding-top: 5%;    
+    margin-top: 0%;
+    margin-left: 15%;
+}
+.p:hover {
+    height: 41.5px;
+    background-color: red;
+    padding-top: 4%;
+}
+.h1 {
+    color: white;
+    position: absolute;
+    top: 40%;
+    left: 45%;
+    display: none;
+}
+.h2 {
+    color: white;
+    position: absolute;
+    top: 40%;
+    left: 45%;
+    display: none;
+}
+.h3 {
+    color: white;
+    position: absolute;
+    top: 40%;
+    left: 45%;
+    display: none;
+}
+.h4 {
+    color: white;
+    position: absolute;
+    top: 40%;
+    left: 45%;
+    display: none;
+}
+.h5 {
+    color: white;
+    position: absolute;
+    top: 40%;
+    left: 45%;
+    display: none;
+}
+.h6 {
+    color: white;
+    position: absolute;
+    top: 40%;
+    left: 45%;
+    display: none;
+}
